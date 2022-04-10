@@ -1,0 +1,5 @@
+bs4>=0.0.1
+aiohttp==3.8.1
+lxml==4.8.0
+fastapi>=0.75.1
+uvicorn==0.17.6
